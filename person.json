@@ -1,0 +1,15 @@
+{
+    "firstname":"Ricky",
+    "gender":true,
+    "height":150,
+    "email":"evolution862@gmail.com",
+    "city":{
+        "通訊地址":"台北",
+        "戶籍地址":"桃園市八德區介壽路一段922號"        
+    },
+    "phone":{
+        "市話":"02=92384958",
+        "行動電話":"0938475939"
+    },
+    "cars":["BMW","TELSA"]
+}
